@@ -12,7 +12,7 @@ function JobSeekerHome() {
       <button onClick={handleLogout}>Logout</button>
       <p>Welcome to the Job Seeker Home Page!</p>
        
-      <p>Explore available jobs:</p>
+      <p>Explore available jobs here: </p>
       <ul>
         <li><Link to="/jobFinder">Job Finder</Link></li>
       </ul>
